@@ -3,3 +3,4 @@ interactions.csv filter=lfs diff=lfs merge=lfs -text
 train_triplets.txt filter=lfs diff=lfs merge=lfs -text
 train_triplets.txt.gz filter=lfs diff=lfs merge=lfs -text
 track_metadata.db filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
